@@ -1,0 +1,15 @@
+{
+    "name": "Sumry",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "This extension will summarize highlighted text using OpenAI API.",
+    "permissions": [
+        "contextMenus"
+    ],
+    "icons": {
+        "16": "icon.png"
+    },
+    "background": {
+        "scripts": ["background.js"]
+    }
+}
