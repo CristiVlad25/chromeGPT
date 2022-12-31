@@ -10,4 +10,4 @@ A chrome extension that uses GPT3 to summarize highlighted text.
 4. `"Load unpacked"`, select the local folder
 5. Go to any page, highlight text, right-click, `"Summarize"`.
 
-[![Showcase](https://img.youtube.com/vi/ocmeb8tLJOk/0.jpg)](https://www.youtube.com/shorts/ocmeb8tLJOk)
+### Showcase
