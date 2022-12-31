@@ -12,4 +12,4 @@ A chrome extension that uses GPT3 to summarize highlighted text.
 
 ### Showcase
 
-Uploading Showcase.mp4…
+https://user-images.githubusercontent.com/17044663/210149050-56db6f7b-b1ed-4162-be4c-76e38a023194.mp4
