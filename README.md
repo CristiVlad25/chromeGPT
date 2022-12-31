@@ -11,3 +11,5 @@ A chrome extension that uses GPT3 to summarize highlighted text.
 5. Go to any page, highlight text, right-click, `"Summarize"`.
 
 ### Showcase
+
+Uploading Showcase.mp4…
